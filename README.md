@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmitSingh12321
+- 👋 Hi, I’m @Amit Singh
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...Web Development Projects
